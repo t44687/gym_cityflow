@@ -1,0 +1,3 @@
+gym==0.15.7
+stable-baselines
+tensorflow<=1.8.0
